@@ -1,0 +1,113 @@
+html {
+    display: block;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    color: #40514E;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: "Dawning of a New Day", cursive;
+    font-size: 5.62rem;
+    color: #495371;
+    position: relative;
+}
+
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    color: #495371;
+    font-size: 2rem;
+}
+
+h3 {
+    font-family: "Josefin Sans", sans-serif;
+    color: #27496D;
+    font-size: 1.5rem;
+}
+
+a {
+    margin: 0 6px;
+}
+
+.description {
+    font-size: 1.3rem;
+    font-weight: normal;
+    position: relative;
+}
+
+.background-img {
+    max-width: 100%;
+    height: auto;
+    margin-top: -200px;
+    display: block;
+    z-index:0;
+}
+
+.top-container {
+    background-color: #BAD7DF;
+    padding-top: 150px;
+    padding-bottom: 0;
+}
+
+.profile-photo {
+    height: 200px;
+    width: 200px;
+}
+
+.middle-container {
+    background-color: #ffffff;
+    padding: 0 25%;
+    line-height: 2;
+}
+
+.skill-row {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.profile {
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.skills {
+    padding-bottom: 150px;
+}
+
+.skill-img-1 {
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+}
+
+.skill-img-2 {
+    width: 25%;
+    float: right;
+    margin-left: 40px;
+}
+
+.contact-title {
+    font-size: 1.3rem;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 12px;
+    position: relative;
+    top: 30px
+}
+
+.footer-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.bottom-container {
+    background-color: #93B5C6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
